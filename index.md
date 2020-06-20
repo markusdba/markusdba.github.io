@@ -7,6 +7,7 @@
 * hat einen Ring verloren
 * ist viel mit seinen Freunden unterwegs
 
+> "Weisst du nicht mehr was Bilbo immer gesagt hat? 'Es ist eine gefaehrliche Sache Frodo, du betritts die Strasse und wenn du nicht auf deine Fuesse aufpasst kannst du nicht wissen wohin sie dich tragen'"
 
 Netter Kerl.
 
