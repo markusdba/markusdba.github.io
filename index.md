@@ -1,5 +1,12 @@
 # FRODO - aus "Herr der Ringe"
 
+## Neffe von Bilbo.
+
+* verschwindet manchmal ganz unerwartet
+* traegt ein Hemd aus Silber
+* hat einen Ring verloren
+* ist viel mit seinen Freunden unterwegs
+
 
 Netter Kerl.
 
@@ -11,8 +18,4 @@ Komisch: der Kerl ist also nicht zu Hause, bereitet aber eine Feier vor.
 
 Aber von dort oben hat man einen schoenen Ausblick ueber das Dorf Hobbiton , bis zum "Green Dragon".
 
-* verschwindet manchmal ganz unerwartet
-* trägt ein Hemd aus Silber
-* hat einen Ring verloren
-* ist viel mit seinen Freunden unterwegs
 
