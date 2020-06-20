@@ -1,5 +1,12 @@
 # FRODO - aus "Herr der Ringe"
 
+## Neffe von Bilbo.
+
+* verschwindet manchmal ganz unerwartet
+* traegt ein Hemd aus Silber
+* hat einen Ring verloren
+* ist viel mit seinen Freunden unterwegs
+
 
 Netter Kerl.
 
