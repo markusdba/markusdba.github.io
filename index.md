@@ -11,4 +11,8 @@ Komisch: der Kerl ist also nicht zu Hause, bereitet aber eine Feier vor.
 
 Aber von dort oben hat man einen schoenen Ausblick ueber das Dorf Hobbiton , bis zum "Green Dragon".
 
+* verschwindet manchmal ganz unerwartet
+* trägt ein Hemd aus Silber
+* hat einen Ring verloren
+* ist viel mit seinen Freunden unterwegs
 
